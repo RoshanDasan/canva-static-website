@@ -1,0 +1,373 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: Canva Sans,Noto Sans Variable,Noto Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+}
+#header
+{
+    width: 100%;
+    height: 80px;   
+    float: left;
+    position: fixed;
+    background-color: white;
+    margin-top: -10px;
+  
+    
+}
+#left-header
+{
+    width: 50%;
+    height: 80px;
+    float: left;
+   
+}
+#right-header
+{
+    width: 50%;
+    height: 80px;
+    float: left;
+    
+   
+   
+}
+.header-topic
+{
+    margin-left: 110px;
+    margin-top: -50px;
+    
+}
+
+.header-topics
+{
+  float: left;
+  margin-left: 40px;
+  margin-top: 20px;   
+  
+    
+}
+.canva-logo
+{
+    margin-left: 20px;   
+    margin-top: 20px; 
+   
+}
+.header-input
+{
+    width: 400px;
+    height: 30px;
+    margin-left: 60px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid gray;
+    
+    
+}
+.right-header-logo
+{
+  
+    text-align: center;
+    margin-left: 450px;
+    margin-top: -29px;
+    width: 80px;
+  
+}
+.right-header-button1
+{
+    float: right;
+    width: 75px;
+    height: 38px;
+    border: transparent;
+    border-radius: 4px;
+    background-color: whitesmoke;
+    margin-top: -35px;
+    margin-right: 160px;
+}
+.right-header-button2  
+{
+    
+    width: 75px;
+    height: 38px;
+    border: transparent;
+    border-radius: 4px;
+    background-color: blueviolet;
+    color: white;
+    margin-left: 630px;
+    margin-top: -80px;
+              
+}
+#button1
+{
+    
+    width: 100px;
+    height: 60px;
+    margin-top: -29px;
+    float: left;
+}
+.right-header-button-div
+{
+    background-color: aqua;
+    width: 75px;
+    height: 38px;
+    
+    
+}
+#login
+{
+    background-color: aqua;
+    width: 150px;
+    height: 60px;
+}
+.line
+{
+    width: 100%;
+    height: 2px;
+    background-color:lightgray;
+
+    
+}
+#body1
+{
+    width: 100%;
+    height: 900px;
+   
+    float: left;
+}
+#body1-maintext
+{
+    text-align: center;
+    margin-top: 60px;
+    font-size: x-large;
+}
+#body1-text1
+{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(81, 78, 78);
+}
+.body1-button1
+{
+    
+    width: 130px;
+    height: 38px;
+    border: transparent;
+    border-radius: 4px;
+    background-color: blueviolet;
+    color: white;
+    margin-left: 45%;
+    margin-top: 20px;
+      
+    
+}
+#header-buttons
+{
+    background-color: blue;
+    width: 100px;
+   
+}
+
+#body-first-img
+{  
+    float: left;
+    margin-left: 110px;
+    
+}
+#body-second-img
+{
+    float: right;  
+    margin-right: 50px;
+    margin-top: 120px;
+   
+  
+}
+#video
+{
+    margin-top: -50px;
+}
+#div1
+{
+    float: left;
+    width: 25%;
+    height: 550px;
+  
+
+}
+#div2
+{
+    float: left;
+    width: 50%;
+    height: 550px;
+   
+
+}
+#div3
+{
+    float: left;
+    width: 25%;
+    height: 550px;
+   
+
+}
+#body2-first-img
+{
+  margin-left: 60px;
+}
+#body2-second-img
+{
+    margin-left: 60px;
+    margin-top: 150px;
+}
+#second-body-text2
+{
+   text-align: center;
+   font-size: xx-large;
+   font-family: Canva Sans,Noto Sans Variable,Noto Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;;
+}
+#second-body-text-with-link
+{
+    text-align: center;
+}
+#body2
+{
+    width: 100%;
+    height: 100px;
+    
+    float: left;
+}
+.body2-logo1
+{
+    float: left;
+    margin-left:130px;
+    margin-top: 40px;
+}
+.body2-logo2
+{
+    float: left;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.body3-div-main
+{
+  width: 100%;
+  height: 500px;
+  float: left;
+}
+.body3-div-left
+{
+  width: 50%;
+  height: 500px;
+  float: left;
+ 
+}
+.body3-div-right
+{
+  width: 50%;
+  height: 500px;
+  float: left;
+ 
+}
+.body3-video1
+{
+   margin-top: 70px;
+   margin-left: 100px;
+}
+.body3-video2
+{
+    margin-top: 60px;
+}
+
+
+.body3-maintext
+{
+    font-size: xx-large;
+    text-align: left;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.body3-text{
+    margin-left: 200px;
+}
+.body3-maintext2
+{
+    font-size: xx-large;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.body3-text1 
+{
+    margin-left: 80px;
+    
+}
+.body3-button1
+{
+    width: 130px;
+    height: 40px;
+    margin-left: 80px;
+    border: transparent;
+    border-radius: 4px;
+    background-color: blueviolet;
+    color: white;
+}
+.body3-button2
+{
+    width: 130px;
+    height: 40px;
+    border: transparent;
+    border-radius: 4px;
+    background-color: blueviolet;
+    color: white;
+    margin-left: 200px;
+}
+#footer1
+{
+    width: 100%;
+    height: 420px;
+    float: left;
+}
+.footer1-text1
+{
+    float: left;
+    margin-left: 50px;
+    
+}
+.footer1-text2
+{
+    float: left;
+    margin-left: 125px;
+}
+#footer2
+{
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+#selection
+{
+    background-color:white;
+    border-radius: 4px;
+    border: 1px solid gray;
+    margin-left : 50px;
+    margin-top: 30px;
+    width: 150px;
+    height: 30px;
+
+}
+#copyrights
+{
+    text-align: center;
+    margin-top: -50px;
+}
+#policy
+{
+    text-align: center;
+
+}
+.footer-logo
+{
+    float: right;
+    margin-right: 5px;
+    margin-top: -20px;
+}
+.footer2-logos
+{
+    margin-top: -60px;
+}
